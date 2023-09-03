@@ -109,7 +109,7 @@ ___
 
 //NB:
 - Twitter =  𝕏 (name_change)
-- Contact Group = Contacting one of the group representative (PoC)
+- Email Group = Contacting one of the group representative (PoC)
 
 ## DEF CON Groups USA
 
@@ -117,14 +117,14 @@ ___
 |----|--------------------|----------------|-------------------|-----------------------------------------------|------------------------------|
 | 1  | DCG719 </br> [![DCG Logo](https://forum.defcon.org/filedata/fetch?channelid=231446&lastupdate=1585704543&type=medium)](https://forum.defcon.org/filedata/fetch?channelid=231446&lastupdate=1585704543&type=medium)| Colorado Springs, Colorado USA | [www.dc719.org](http://www.dc719.org) | POC: MysfitPrincess </br> - [Email group↗](mailto:mysfitprincess@gmail.com) </br> - [Discord↗]( https://discord.gg/zQQdCaBtbV​) </br> - [Facebook↗](https://www.facebook.com/groups/dc719) |  [Sign in to join](https://forum.defcon.org/node/231446) |
 | 2  | DCG575| Las Cruces, New Mexico | [www.dcg575.org](www.dcg575.org) | - [Email Group↗](mailto:admin@dcg575.org ) | [Sign in to join](https://forum.defcon.org/node/241274)|
-| 3 | DCG205| Birmingham, Alabama | N/A | POC: cynical </br> - [Email Group↗]( cynical.philanthropist@gmail.com )  | [Sign in to join](https://forum.defcon.org/node/239804) |
-| 4 | DC401 | Providence, Rhode Island USA | [meetup.com/defcon401](https://www.meetup.com/defcon401/) | [Twitter↗](https://twitter.com/defcon401) | [Sign in to join](https://forum.defcon.org/node/231742) |
-| 5 | DC281 | Houston, Texas  USA | N/A | [Twitter↗](https://twitter.com/dc281houston) | [Sign in to join](https://forum.defcon.org/node/232871) |
+| 3 | DCG205| Birmingham, Alabama | N/A | POC: cynical </br> - [Email Group↗]( cynical.philanthropist@gmail.com ) </br> - [Twitter↗](https://twitter.com/DefCon205) | [Sign in to join](https://forum.defcon.org/node/239804) |
+| 4 | DC401 | Providence, Rhode Island USA | [meetup.com/defcon401](https://www.meetup.com/defcon401/) | - [Twitter↗](https://twitter.com/defcon401) | [Sign in to join](https://forum.defcon.org/node/231742) |
+| 5 | DC281 | Houston, Texas  USA | http://www.dc281.org/ | - [Twitter↗](https://twitter.com/dc281houston) | [Sign in to join](https://forum.defcon.org/node/232871) |
 | 6 | DC312 | Chicago, Illinois USA | [www.dc312.org](dc312.org) | POC: Scotch and Bubbles </br> - [Email group↗](mailtp:dc312@dc312.org) </br> - [Twitter](https://twitter.com/_dc312_) | [Sign in to join](https://forum.defcon.org/node/231131) |
-| 7 | DC212 | New York City, New York USA | N/A |POC: Rex </br> - [Email Group↗](kniveslikebutterflies@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon212) </br> - [Discord↗](https://discord.gg/aDycdFjq) | [Sign in to join](https://forum.defcon.org/node/231675) |
+| 7 | DC212 | New York City, New York USA | www.meetup.com/defcon212 |POC: Rex </br> - [Email Group↗](kniveslikebutterflies@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon212) </br> - [Discord↗](https://discord.gg/aDycdFjq) | [Sign in to join](https://forum.defcon.org/node/231675) |
 | 8 | DC225 | Baton Rouge, Louisiana USA | [www.defcon225.org](www.defcon225.org) | POC: s0ups & Waldo </br> - [Email Group↗](mailto:s0ups@defcon.org) | [Sign in to join](https://forum.defcon.org/node/231453) |
 | 9 | DC516 | Nassau County, New York USA | [www.dc516.org](www.dc516.org.org) | POC: frank trezza </br> - [Email Group↗](mailto:frank.trezza@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231453) |
-|10 | DCG256 | Huntsville, Alabama USA | N/A | POC: Hope Annihilato </br> - [Email Group↗](mailto:Hope.DCG256@gmail.com) </br> - [Discord↗](https://discord.gg/MU9GfUJ) | [Sign in to join](https://forum.defcon.org/node/235008) |
+|10 | DCG256 | Huntsville, Alabama USA | www.dc256.org | POC: Hope Annihilato </br> - [Email Group↗](mailto:Hope.DCG256@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon256) </br> - [Discord↗](https://discord.gg/MU9GfUJ) | [Sign in to join](https://forum.defcon.org/node/235008) |
 |11 | DC503 | Portland, Oregon USA | www.503.ninja | POC: sibios </br> - [Email Group↗](mailto:dc503.pdx@gmail.com) </br> - [Twitter↗](https://twitter.com/dc503) | [Sign in to join](https://forum.defcon.org/node/231467) |
 |12 | DCG608 | Madison, Wisconsin | www.dc608.org | POC: Ryan Zagrodnik </br> - [Email Group↗](mailto:ryan.zagrodnik@infocus-security.com) | [Sign in to join](https://forum.defcon.org/node/241273) |
 |13 | DC512  | Austin, Texas USA | www.defcon512.org | POC: Robert Willis </br> - [Email Group↗](mailto:robert.willis@owasp.org) </br> - [Twitter↗](https://twitter.com/dc512) | [Sign in to join](https://forum.defcon.org/node/232813) |
@@ -143,7 +143,7 @@ ___
 |26 | DC937  | Dayton, Ohio USA | N/A | POC: Nicole Beckwith & Clayton Horstman </br> - [Email Group↗](mailto:nicolebeckwith@protonmail.com) | [Sign in to join](https://forum.defcon.org/node/231679) | 
 |27 | DC501    | Little Rock, Arkansas, USA | www.dc501.org | POC: Dylan Hailey </br> - [Email Group↗](mailto:dc501@dylanhailey.com) </br> - [Twitter↗](https://twitter.com/DC501org) | [Sign in to join](https://forum.defcon.org/node/231638) | 
 |28 | DCG320  | St. Cloud, Minnesota | n/a | POC: Blake Thoennes </br> - [Email Group↗](mailto:blake.thoennes@gmail.com) | [Sign in to join](https://forum.defcon.org/node/241277)| 
-|29 | DC253   | Tacoma, Washington USA | www.dc253.org | POC: 3mu|0r </br> - [Email Group↗](mailto:dc253@protonmail.org) </br> - [Discord↗](https://discord.gg/6QcHJXa) | [Sign in to join](https://forum.defcon.org/node/231692) | 
+|29 | DC253   | Tacoma, Washington USA | www.dc253.org | POC: 3mu0r </br> - [Email Group↗](mailto:dc253@protonmail.org) </br> - [Discord↗](https://discord.gg/6QcHJXa) | [Sign in to join](https://forum.defcon.org/node/231692) | 
 |30 | DC207 | Portland, Maine USA | [dc207.org](http://events.dc207.org) | POC: Virginia Ham </br> - [Email Group↗](mailto:root@dc207.org) </br> - [Twitter↗](https://twitter.com/dcg207) </br> - [Discord↗](https://discord.com/invite/JjpKF6sFW6) | [Sign in to join](https://forum.defcon.org/node/231667) | 
 |31 | DC502  | Louisville, Kentucky USA | www.dc502.org | POC: The_Gibson </br> - [Email Group↗](mailto:thegibson@hackers.town) </br> - [Twitter↗](https://twitter.com/defcon502)  | [Sign in to join](https://forum.defcon.org/node/231666) |
 | 32 | DC902 | Halifax, Canada | www.dc902.ca | POC: Jeff Hann </br> - [Email Group↗](mailto:jhann@protomail.com) </br> - [Twitter↗](https://twitter.com/DefCon902) </br> - [Discord↗](https://discord.gg/wbPXa9B) | [Sign in to join](https://forum.defcon.org/node/231548) |
@@ -164,7 +164,22 @@ ___
 | 47 | DC540 |  Dulles Area, Virginia USA | www.dc540.org | POC: baabalicious </br> - [Email Group↗](mailto:dc540@dc540.org) </br> - [Twitter↗](https://twitter.com/dc540_nova) </br> - [Mastodon↗](https://defcon.social/@dc540) </br> | [Sign in to join](https://forum.defcon.org/node/231690) |
 | 48 | DC702 |  Las Vegas, Nevada | www.dc702.space | POC: Aliea Foshay & Christopher Forte </br> - [Email Group↗](mailto:chris@abstracted.tech) </br> - [Twitter↗](https://twitter.com/its_dc702) </br> - [Discord↗](https://discord.com/invite/9UqGMaE52F) </br> | [Sign in to join](https://forum.defcon.org/node/232568) |
 | 49 | DC310 |  Hollywood, California USA | www.defcon310.org | POC: Tony Trummer </br> - [Email POC↗](mailto:tonytrummer@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon310) </br> | [Sign in to join](https://forum.defcon.org/node/231441) |
-| 50 | DC850 | Pensacola, Florida USA | www.dc850.org | POC: Nick Koch, Drew Gowan </br> - [Email Group↗](mailto:info@dc850.org) </br> - [Twitter↗](https://twitter.com/DC850_) </br> | [Sign in to join](https://forum.defcon.org/node/231655) |
+| 50 | DC850 | Pensacola, Florida USA | www.dc850.org | POC: Nick Koch & Drew Gowan </br> - [Email Group↗](mailto:info@dc850.org) </br> - [Twitter↗](https://twitter.com/DC850_) </br> | [Sign in to join](https://forum.defcon.org/node/231655) |
+| 51 | DC919  | Raleigh, North Carolina USA | www.dc919.org | POC: bace & flood </br> - [Email Group↗](mailto:mail@dc919.net) </br> - [Twitter↗](https://twitter.com/DefCon919) </br> - [Meetup↗](https://www.meetup.com/DefCon919/) </br> | [Sign in to join](https://forum.defcon.org/node/231464) |
+| 52 | DC402  | Omaha, Nebraska | www.dc402.org | POC: Tim Vidas & J.Lehr </br> - [Email Group↗](mailto:info@dc402.org) </br> - [Backup Email↗](mailto:jason@dc402.org) </br> - [Twitter↗](https://twitter.com/DEFCON402) </br> - [Facebook↗](https://www.facebook.com/DC402/) </br> | [Sign in to join](https://forum.defcon.org/node/231673) |
+| 53 | DC505  | Albuquerque, New Mexico USA | www.meetup.com/DEFCON505 | POC: ABQHack </br> - [Email Group↗](mailto:ABQHack@gmail.com) </br> - [Twitter↗](https://twitter.com/Defcon505)   | [Sign in to join](https://forum.defcon.org/node/231674) |
+| 54 | DC510 |  East Bay, California USA | www.dc510.com | POC: Delta </br> - [Email Group↗](mailto:dc510@protonmail.com) </br> - [Twitter↗](https://twitter.com/_dc510)   | [Sign in to join](https://forum.defcon.org/node/231443) |
+| 55 | DC615  |  Chattanooga, Tennessee USA | www.dc615.org | POC: Corgi & Brent White </br> - [Email Group↗](mailto:Corgi.inbox@gmail.com) </br> - [Backup Email↗](mailto:bitkiller@dc615.org) </br> - [Twitter↗](https://twitter.com/defcon615)  | [Sign in to join](https://forum.defcon.org/node/231484) |
+| 56 | DC214  |  Dallas, Texas USA | www.dc214.org | POC: Isaac & MadHat </br> - [Email Group↗](mailto:00iissaacc00@gmail.com) </br> - [Backup Email↗](mailto:madhat@gmail.com) </br> - [Twitter↗](https://twitter.com/dc214dfw/) </br> - [Facebook↗](https://www.facebook.com/groups/dc214/) | [Sign in to join](https://forum.defcon.org/node/231486) |
+| 57 | DC610  |  Easton, Pennsylvania USA | www.meetup.com/DEFCON610 | POC: rand0h </br> - [Email Group↗](mailto:danny@randoh.net) </br> - [Twitter↗](https://twitter.com/DEFCON610)  | [Sign in to join](https://forum.defcon.org/node/231469) |
+| 58 | DC330  |  Stark County, Ohio USA | www.dc214.org | POC: Loadhigh_818 </br> - [Email Group↗](mailto:rememberthe5th@protonmail.com) | [Sign in to join](https://forum.defcon.org/node/231678) |
+| 59 | DC480  |  Phoenix, Arizona | www.dc480.io | POC: Warren </br> - [Email Group↗](mailto:dc480poc@gmail.com) </br> - [Twitter↗](https://twitter.com/dc480az) | [Sign in to join](https://forum.defcon.org/node/231439) |
+| 60 | DC916  |  Sacramento, California USA | www.defcon916.org | POC: 0xdade </br> - [Twitter↗](https://twitter.com/defcon916) </br> - [Github↗](https://github.com/defcon916) | [Sign in to join](https://forum.defcon.org/node/231442) |
+| 61 | DC562  |  Long Beach, California USA | www.dc562.org | POC: z0rro </br> - [Email Group↗](mailto:z0rro@dc562.org) </br> - [Twitter↗](https://twitter.com/dc214dfw/) | [Sign in to join](https://forum.defcon.org/node/231444) |
+| 62 | DC407  |  Orlando, Florida USA | www.dc407.com | POC: DC407 & Willa </br> - [Email Group↗](mailto:poc@dc407.com) </br> - [Backup Email↗](mailto:abyssknight@dc407.com) </br> - [Discord↗](https://discord.com/invite/UtvaVp7J36) | [Sign in to join](https://forum.defcon.org/node/231447) |
+| 63 | DC813  |  Tampa, Florida USA | www.dc813.org | POC: Ryan Lindfield & G3k </br> - [Email Group↗](mailto:ryan@westchasetech.com) </br> - [Backup Email↗](mailto:g3k@disillusion.us) </br> - [Twitter↗](https://twitter.com/DefCon813) </br> - [Facebook↗](https://www.facebook.com/groups/242416875864754/) | [Sign in to join](https://forum.defcon.org/node/231448) |
+| 64 | DC706  |  Columbus, Georgia USA | www.dc706.org | POC: Chris & Casey </br> - [Email Group↗](mailto:clamsec@protonmail.com) </br> - [Backup Email↗](mailto:3ndG4me@protonmail.com) | [Sign in to join](https://forum.defcon.org/node/231450) |
+| 65 | DC574  |  South Bend, Indiana USA | www.dc574.org | POC: Squiddy </br> - [Email Group↗](mailto:vmdeus@pm.me) </br> - [Twitter↗](https://twitter.com/defcon574)  | [Sign in to join](https://forum.defcon.org/node/231451) |
 
 
 [⬆ Back to Top](#top)
@@ -195,7 +210,7 @@ ___
 
 | ID | DCG Name           | Group Location | Website        |  Social Link/ Point of Contact | Join Group    |
 |----|--------------------|----------------|----------------|--------------------------------|---------------|
-| 1  | | | | | |
+| 1  |                    |                |                |                                |               |
 
 
 ---
