@@ -109,7 +109,7 @@ ___
 
 //NB:
 - Twitter =  𝕏 (name_change)
-- Email Group = Contacting one of the group representative (PoC)
+- Email Group = Contacting one of the group representative (PoC) //cc or bcc the second one
 
 ## DEF CON Groups USA
 
@@ -180,6 +180,22 @@ ___
 | 63 | DC813  |  Tampa, Florida USA | www.dc813.org | POC: Ryan Lindfield & G3k </br> - [Email Group↗](mailto:ryan@westchasetech.com) </br> - [Backup Email↗](mailto:g3k@disillusion.us) </br> - [Twitter↗](https://twitter.com/DefCon813) </br> - [Facebook↗](https://www.facebook.com/groups/242416875864754/) | [Sign in to join](https://forum.defcon.org/node/231448) |
 | 64 | DC706  |  Columbus, Georgia USA | www.dc706.org | POC: Chris & Casey </br> - [Email Group↗](mailto:clamsec@protonmail.com) </br> - [Backup Email↗](mailto:3ndG4me@protonmail.com) | [Sign in to join](https://forum.defcon.org/node/231450) |
 | 65 | DC574  |  South Bend, Indiana USA | www.dc574.org | POC: Squiddy </br> - [Email Group↗](mailto:vmdeus@pm.me) </br> - [Twitter↗](https://twitter.com/defcon574)  | [Sign in to join](https://forum.defcon.org/node/231451) |
+| 66 | DC859  |  Lexington, Kentucky USA | www.dc859blog.wordpress.com | POC: byt3boy & Bill </br> - [Email Group↗](mailto:byt3boy.DC859@gmail.com) </br> - [Backup Email↗](mailto:phonybunkum@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon859)  | [Sign in to join](https://forum.defcon.org/node/231452) |
+| 67 | DC410  |  Baltimore, Maryland USA | N/A | POC: zGeekDiver </br> - [Email Group↗](mailto:zGeekDiver@dc410.io) </br> - [Twitter↗](https://twitter.com/Defcon410)  | [Sign in to join](https://forum.defcon.org/node/231454) |
+| 68 | DC313  |  Detroit, Michigan USA | www.dc313.org | POC: Xavier D. Johnson </br> - [Email Group↗](mailto:me@xavierdjohnson.com) </br> - [Twitter↗](https://twitter.com/_DC313_)  | [Sign in to join](https://forum.defcon.org/node/231455) |
+| 69 | DC314  | St. Louis, Missouri USA | www.dc314.org | POC: kamikazejoe & rtward </br> - [Email Group↗](mailto:contact@dc314.org) </br> - [Backup Email↗](mailto:robert@rtward.com) </br> - [Twitter↗](http://twitter.com/stl2600/) </br> - [Meetup↗](https://www.meetup.com/St-Louis-2600/) | [Sign in to join](https://forum.defcon.org/node/231456) |
+| 70 | DC406  |  Helena, Montana USA | www.dc406.com </br> www.dc406.org/ | POC: Rob Jackson & Ed Williams </br> - [Email Group↗](mailto:robin.jackson@wt4n6.com) </br> - [Backup Email↗](mailto:cephurs@gmail.com) </br> - [Twitter↗](https://twitter.com/dc406) </br> - [Twitter 2](https://twitter.com/defcon406) | [Sign in to join](https://forum.defcon.org/node/231457) |
+| 71 | DC531  |  Papillion, Nebraska USA | www.dc531.org | POC: Mickey </br> - [Email Group↗](mailto:mickey@dc531.org) | [Sign in to join](https://forum.defcon.org/node/231458) |
+| 72 | DC775  |  Reno, Nevada USA | www.meetup.com/DC_775 | POC: NotPike </br> - [Email Group↗](mailto:dc775reni@gmail.com) </br> - [Twitter↗](https://twitter.com/DCGroup775)  | [Sign in to join](https://forum.defcon.org/node/231459) |
+| 73 | DC603  |  Lebanon, New Hampshire USA | www.dc603.org | POC: Duck Duck & Boots </br> - [Email Group↗](mailto:info@dc603.org) </br> - [Twitter↗](https://twitter.com/dc_603)  | [Sign in to join](https://forum.defcon.org/node/231460) |
+| 74 | DC585  |  Rochester, New York | www.dc585.info | POC: algorythm </br> - [Email Group↗](mailto:algorythm@gmail.com) </br> - [Twitter↗](https://twitter.com/dc585)  | [Sign in to join](https://forum.defcon.org/node/231461) |
+| 75 | DC828  |  Asheville, North Carolina USA | N/A | POC: SecureSamurai </br> - [Email Group↗](mailto:securesamurai@tutanota.com) </br> - [Twitter↗](https://twitter.com/defcon828)  | [Sign in to join](https://forum.defcon.org/node/231462) |
+| 76 | DC910  | Fayettville, North Carolina USA | N/A | POC: Rusty </br> - [Email Group↗](mailto:defcon910@protonmail.com) </br> - [Twitter↗](https://twitter.com/DefCon910)  | [Sign in to join](https://forum.defcon.org/node/231463) |
+| 77 | DC215  | Philadelphia, Pennsylvania USA | www.dc215.org | POC: Clay Wells & Brian Jopling </br> - [Email Group↗](mailto:Clayball@dc215.org) </br> - [Backup Email↗](mailto:brj424@dc215.org) </br> - [Twitter↗](https://twitter.com/defconphilly) </br> - [Slack↗](https://dc215.slack.com/) | [Sign in to join](https://forum.defcon.org/node/231468) |
+| 78 | DC423  | Chattanooga, Tennessee USA | www.dc423.org | POC: tothehilt & SynAckPwn </br> - [Email Group↗](mailto:tothehilt.423@gmail.com) </br> - [Backup Email↗](mailto:synackpwn@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon423) </br> - [Slack↗](https://dc423.slack.com/) </br> - [Github↗](https://github.com/DC423) | [Sign in to join](https://forum.defcon.org/node/231483) |
+| 79 | DC726  | San Antonio, Texas USA | www.dc-726.org | POC: Pinky </br> - [Email Group↗](mailto:dc726sa@gmail.com) </br> - [Twitter↗](https://twitter.com/dc_726) | [Sign in to join](https://forum.defcon.org/node/231487) |
+| 80 | DC806  |Lubbock, Texas USA | N/A | POC: C1n1-M0d & Retr0 </br> - [Email Group↗](mailto:Ceaserbase64@gmail.com) </br> - [Backup Email↗](mailto:blackhathitter@gmail.com)  | [Sign in to join](https://forum.defcon.org/node/231488) |
+| 81 | DC435  | Logan, Utah USA | www.dc435.org | POC: James Pope & Matt Lorimer </br> - [Email Group↗](mailto:pope@dc435.org) </br> - [Backup Email↗](mailto:zodiak@utahsaint.org) </br> - [Twitter↗](https://twitter.com/defcon435) </br> - [Discord↗](https://discord.dc435.org/) | [Sign in to join](https://forum.defcon.org/node/231489) |
 
 
 [⬆ Back to Top](#top)
