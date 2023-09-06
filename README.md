@@ -26,7 +26,7 @@ What next after attending DEF CON conference? Time to join a local DCG in your a
 
 [DEF CON](defcon.org) hacker groups, also known as DEF CON Groups or DC Groups, are local communities of cybersecurity enthusiasts, hackers, and tech experts. Inspired by the DEF CON conference, these groups gather to share knowledge and insights about hacking, cybersecurity, and technology. Participants engage in discussions, workshops, and presentations, fostering learning and collaboration. The emphasis is on ethical hacking and responsible practices, providing a supportive environment for individuals interested in exploring technology's security aspects. These groups extend the spirit of the DEF CON conference throughout the year, promoting education and community in the world of cybersecurity.
 
-Finding This Interesting Share with the community?
+Finding This Interesting? Share it with the community🖨️
 
 **_Share link_**:
 ``` markdown
@@ -123,11 +123,11 @@ ___
 ![DEF CON Groups stats](https://github.com/DefconParrot/DefconGroups/assets/30528167/e43fd444-7218-4a71-bccb-543b34d39a60)
 
 
-DEF CON Groups USA: __Pending__
-Defcon Groups International: __Pending__
-Defcon Groups China: __Pending__
-Total Defcon Groups(2023): __Pending__
-Average Group Meetup Frequency: __Pending__
+DEF CON Groups USA: __Pending__ </br>
+Defcon Groups International: __Pending__ </br>
+Defcon Groups China: __Pending__ </br>
+Total Defcon Groups(2023): __Pending__ </br>
+Average Group Meetup Frequency: __Pending__ </br>
 Average Group Meetup Duration: __Pending__
 
 ___
@@ -151,7 +151,7 @@ ___
 
 
 <div align="center">
-<a href="https://github.com/DefconParrot/DefconGroups/blob/main/DCG_USA.md">⚙️Load Full USA List</a>
+<a href="https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_USA.md">⚙️Load Full USA List</a>
 </div>
 
 
@@ -166,7 +166,7 @@ ___
 
 <div align="center">
 
-<a href="https://github.com/DefconParrot/DefconGroups/blob/main/DCG_USA.md">⚙️Load Full International List</a>
+<a href="https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_International.md">⚙️Load Full International List</a>
 
 </div>
 
@@ -178,7 +178,7 @@ ___
 
 <div align="center">
 
-<a href="https://github.com/DefconParrot/DefconGroups/blob/main/DCG_USA.md">⚙️Load Full DCG China List</a>
+<a href="https://github.com/DefconParrot/DefconGroups/blob/main/DCGroups/DCG_China.md">⚙️Load Full DCG China List</a>
 
 </div>
 
@@ -202,3 +202,4 @@ ___
 | 1  | | | |
 
 [⬆ Back to Top](#top)
+
