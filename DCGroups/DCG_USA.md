@@ -1,8 +1,8 @@
 ## DEF CON Groups USA
 
-//NB:
-- Twitter =  𝕏 (name_change)
-- Email Group = Contacting one of the group representative (PoC) //cc or bcc the second one
+> //NB:
+> - Twitter =  𝕏 (name_change)
+> - Email Group = Contacting one of the group representative (PoC) //cc or bcc the second one
 
 | ID | DCG Name           | Group Location | Website           |  Social Link / Point of Contact (POC)               |              Join Group      |
 |----|--------------------|----------------|-------------------|-----------------------------------------------|------------------------------|
@@ -37,7 +37,7 @@
 |29 | DC253   | Tacoma, Washington USA | www.dc253.org | POC: 3mu0r </br> - [Email Group↗](mailto:dc253@protonmail.org) </br> - [Discord↗](https://discord.gg/6QcHJXa) | [Sign in to join](https://forum.defcon.org/node/231692) | 
 |30 | DC207 | Portland, Maine USA | [dc207.org](http://events.dc207.org) | POC: Virginia Ham </br> - [Email Group↗](mailto:root@dc207.org) </br> - [Twitter↗](https://twitter.com/dcg207) </br> - [Discord↗](https://discord.com/invite/JjpKF6sFW6) | [Sign in to join](https://forum.defcon.org/node/231667) | 
 |31 | DC502  | Louisville, Kentucky USA | www.dc502.org | POC: The_Gibson </br> - [Email Group↗](mailto:thegibson@hackers.town) </br> - [Twitter↗](https://twitter.com/defcon502)  | [Sign in to join](https://forum.defcon.org/node/231666) |
-| 32 | DC902 | Halifax, Canada | www.dc902.ca | POC: Jeff Hann </br> - [Email Group↗](mailto:jhann@protomail.com) </br> - [Twitter↗](https://twitter.com/DefCon902) </br> - [Discord↗](https://discord.gg/wbPXa9B) | [Sign in to join](https://forum.defcon.org/node/231548) |
+| 32 | DC770 | Atlanta, Georgia USA | www.dc770.org | POC: sainate </br> - [Email Group↗](mailto:poc@dc770.org) </br> - [Discord↗](https://discord.gg/SCvAgvA) | [Sign in to join](https://forum.defcon.org/node/231660) |
 | 33 | DC360  | Mount Vernon, Washington USA |N/A | POC: d0c </br> - [Email Group↗](mailto:Grep.d0c@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231693) |
 | 34 | DC864  | Greenville, South Carolina USA | www.dc864.org | POC: Ben Acord & Eric Hart </br> - [Email Group↗](mailto:DefCon864info@gmail.com) </br> - [Twitter↗](http://twitter.com/DEFCON864/) </br> - [Discord↗](https://discord.gg/yc2xVAxwUc) | [Sign in to join](https://forum.defcon.org/node/231482) | 
 | 35 | DC865   | Knoxville, Tennessee USA | www.dc865.org | POC:Zacht </br> - [Email Group↗](mailto:nvemb3r@dc865.org) </br> - [Backup Email↗](mailto:c_3pjoe@c865.org) </br> - [Twitter↗](https://twitter.com/defcon865) </br>[Upcoming events↗](https://dc865.eventbrite.com/) | [Sign in to join](https://forum.defcon.org/node/231485) | 
@@ -87,3 +87,68 @@
 | 79 | DC726  | San Antonio, Texas USA | www.dc-726.org | POC: Pinky </br> - [Email Group↗](mailto:dc726sa@gmail.com) </br> - [Twitter↗](https://twitter.com/dc_726) | [Sign in to join](https://forum.defcon.org/node/231487) |
 | 80 | DC806  |Lubbock, Texas USA | N/A | POC: C1n1-M0d & Retr0 </br> - [Email Group↗](mailto:Ceaserbase64@gmail.com) </br> - [Backup Email↗](mailto:blackhathitter@gmail.com)  | [Sign in to join](https://forum.defcon.org/node/231488) |
 | 81 | DC435  | Logan, Utah USA | www.dc435.org | POC: James Pope & Matt Lorimer </br> - [Email Group↗](mailto:pope@dc435.org) </br> - [Backup Email↗](mailto:zodiak@utahsaint.org) </br> - [Twitter↗](https://twitter.com/defcon435) </br> - [Discord↗](https://discord.dc435.org/) | [Sign in to join](https://forum.defcon.org/node/231489) |
+| 82 | DC206  | Redmond, Washington USA | www.dc206.org | POC: Dave Null </br> - [Email Group↗](mailto:dave.null@internet-detectives.com) </br> - [Founder Twitter↗](https://twitter.com/_noid_) | [Sign in to join](https://forum.defcon.org/node/231491) |
+| 83 | DC509  |Spokane, Washington USA | www.dc509.com | POC: Kai '0xNBE1' T. & Gary Blosse </br> - [Email Group↗](mailto:info@dc509.com) </br> - [Backup Email↗](mailto:gary.blosser@gmail.com) </br> - [Twitter↗](https://twitter.com/DCG509) | [Sign in to join](https://forum.defcon.org/node/231492) |
+| 84 | DC715  |Eau Claire, Wisconsin USA | www.ecinfosec.com | POC: Kevin Bryant </br> - [Email Group↗](mailto:kevin@einfosec.com) | [Sign in to join](https://forum.defcon.org/node/231493)|
+| 85 | DC787  | Bayamon, Puerto Rico | www.dc206.org | POC: Jose L. Quinones </br> - [Email Group↗](mailto:josequinones@codefidelio.org) </br> - [Twitter↗](https://twitter.com/defcongroup787) </br> [Facebook↗](https://forum.defcon.org/node/231494) | [Sign in to join](https://forum.defcon.org/node/231494) |
+| 86 | DC530  | Bayamon, Puerto Rico | www.dc530.org | POC: Cereal  </br> - [Email Group↗](mailto:cereal76@gmail.com) </br> - [Twitter↗](https://twitter.com/_dc530) </br> [Facebook↗](https://www.facebook.com/pages/DC530/) | [Sign in to join](https://forum.defcon.org/node/231639) |
+| 87 | DC559  | Chowchilla, California USA | www.dc530.org | POC: Doc Panda  </br> - [Email Group↗](mailto:pandaphminus@gmail.com) </br> - [Twitter↗](https://twitter.com/dc_559) | [Sign in to join](https://forum.defcon.org/node/231640) |
+| 88 | DC661  | Bakersfield, California USA | www.defcon661.org | POC: ech0_31003  </br> - [Email Group↗](mailto:defcon661@protonmail.com)  | [Sign in to join](https://forum.defcon.org/node/231642) |
+| 89 | DC707  | Petaluma, California USA | N/A | POC: Info  </br> - [Email Group↗](mailto:707defcon@gmail.com)  | [Sign in to join](https://forum.defcon.org/node/231643) |
+| 90 | DC805  | Ojai, California USA | www.defcon805.org | POC: Birkhoff & David  </br> - [Email Group↗](mailto:root@birkhoff.ch) </br> - [Backup Email↗](mailto:david@sotaenterprises.com) </br> - [Twitter↗](https://twitter.com/_DC818_) | [Sign in to join](https://forum.defcon.org/node/231644) |
+| 91 | DC818  | Woodland Hills, California USA | www.dc818.org | POC:Tyrant  </br> - [Email Group↗](mailto:root@birkhoff.ch) </br> - [Twitter↗](https://twitter.com/_DC818_) </br> - [Discord↗](https://discord.com/invite/6Q8cNY48) | [Sign in to join](https://forum.defcon.org/node/231645) |
+| 92 | DC831  | Santa Cruz, California USA | www.dc818.org | POC: Jedi </br> - [Twitter↗](https://twitter.com/dc831) | [Sign in to join](https://forum.defcon.org/node/231646) |
+| 93 | DC909  | San Bernardino, California USA | www.dc909.org | POC: @security_panda  </br> - [Email Group↗](mailto:panda@securitypanda.io) </br> - [Twitter↗](https://twitter.com/defcon909) </br> - [Meetup↗](https://www.meetup.com/OWASP-Inland-Empire-Open-Web-Application-Security-Project/) | [Sign in to join](https://forum.defcon.org/node/231647) |
+| 94 | DC720  | Boulder, Colorado USA | www.dc720.org | POC: James McKee & Matt Bell </br> - [Email Group↗](mailto:punkcoder@protonmail.com) </br> - [Backup Email↗](mailto:mbell.home@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231648) |
+| 95 | DC970  | Fort Collins, Colorado USA | www.dc970.org | POC: IceQUICK  </br> - [Email Group↗](mailto:iq@pbin.co) </br> - [Twitter↗](https://twitter.com/dc970) | [Sign in to join](https://forum.defcon.org/node/231649) |
+| 96 | DC352  | Gainesville, Florida USA | www.defcon352.org | POC: jnw  </br> - [Email Group↗](mailto:jnw@cise.ufl.edu) </br> - [Twitter↗](https://twitter.com/DefCon352) | [Sign in to join](https://forum.defcon.org/node/231653) |
+| 97 | DC727  | St. Petersburg Florida USA | N/A | POC: Matt Parks  </br> - [Email Group↗](mailto:matt@bovsistudios.com) | [Sign in to join](https://forum.defcon.org/node/231654) |
+| 98 | DC904  | Jacksonville, Florida USA | N/A | POC: Qui-Gon Gene & Michael Potts </br> - [Email Group↗](mailto:michael@potts.it) </br> - [Backup Email↗](mailto:michael@potts.it) | [Sign in to join](https://forum.defcon.org/node/231656) |
+| 99 | DC470  | Alpharetta, Georgia USA | www.dc909.org | POC: Joshua Ruppe  </br> - [Email Group↗](mailto:me@joshruppe.com) | [Sign in to join](https://forum.defcon.org/node/231659) |
+| 100 | DC208  | Couer d'Alene, Idaho USA | www.dc208.net | POC: TC & saint  </br> - [Email Group↗](mailto:tc@dc208.net) </br> - [Twitter↗](https://twitter.com/dc208) | [Sign in to join](https://forum.defcon.org/node/231662) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
