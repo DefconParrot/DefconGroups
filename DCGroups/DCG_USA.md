@@ -106,7 +106,10 @@
 | 98 | DC904  | Jacksonville, Florida USA | N/A | POC: Qui-Gon Gene & Michael Potts </br> - [Email Group↗](mailto:michael@potts.it) </br> - [Backup Email↗](mailto:michael@potts.it) | [Sign in to join](https://forum.defcon.org/node/231656) |
 | 99 | DC470  | Alpharetta, Georgia USA | www.dc909.org | POC: Joshua Ruppe  </br> - [Email Group↗](mailto:me@joshruppe.com) | [Sign in to join](https://forum.defcon.org/node/231659) |
 | 100 | DC208  | Couer d'Alene, Idaho USA | www.dc208.net | POC: TC & saint  </br> - [Email Group↗](mailto:tc@dc208.net) </br> - [Twitter↗](https://twitter.com/dc208) | [Sign in to join](https://forum.defcon.org/node/231662) |
-
+| 101 | DC618  | Scotts AFB, Illinois USA | N/A | POC: Raymond Evans & Tony Bryan  </br> - [Email Group↗](mailto:Revans@cydefe.com) </br> [Backup Email](mailto:bryan@midwestcybercenter.org)  | [Sign in to join](https://forum.defcon.org/node/231664) |
+| 102 | DC316  | Wichita, Kansas USA | N/A | POC: Mitchell Williams  </br> - [Email Group↗](mailto:mitchell13r@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231665) |
+| 103 | DC443  | Severn, Maryland USA | www.dc443.org | POC: Flay  </br> - [Email Group↗](mailto:flay@unallocatedspace.org) </br> - [Twitter↗](https://twitter.com/dc443_) | [Sign in to join](https://forum.defcon.org/node/231668) |
+| 104 | DC617  | Boston, Massachusetts USA | www.dc617.org | POC: Info  </br> - [Email Group↗](mailto:help@dc617.org) </br> - [Twitter↗](http://twitter.com/defcon617) </br> [Facebook↗](https://www.facebook.com/defcon617/)| [Sign in to join](https://forum.defcon.org/node/231669) |
 
 
 

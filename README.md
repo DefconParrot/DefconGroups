@@ -18,6 +18,7 @@ ___
 - [DEF CON Groups International](#def-con-groups-international)
 - [Uncategorized Groups](#uncategorized-groups)
 - [Status: Inactive / Banned / Merged Groups](#status-inactive--banned--merged-groups)
+- [Contact/Group Registration](#contactgroup-registration)
 
 
 ## Introduction
@@ -40,12 +41,10 @@ https://github.com/DefconParrot/DefconGroups
 <details>
 <summary>Best Practices For DC Groups</summary>
 
-- For better DCG discoverability,...
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Fusce ornare lacus vel orci imperdiet gravida.
-- Integer mattis orci id libero cursus interdum et et mauris.
-- Curabitur sit amet arcu quis quam pulvinar tincidunt.
-- Praesent et quam ac mi imperdiet pulvinar a at odio.
+    -
+    -
+    -
+    -
 
 </details>
 
@@ -200,6 +199,18 @@ ___
 |----|--------------------|-------------------------------------------------------|----------------|--------------|-------------------------------------|
 | x  | DCG Sample         | USA                                                   | [Link 1](url1) |Inactive      |   [Official statement](#)  / N/A    |
 | 1  | | | |
+
+----
+
+## Contact/Group Registration
+
+Curator => [Defcon Parrot↗](https://twitter.com/DefconParrot) 
+
+Official Org Links => [DEF CON Groups↗](https://twitter.com/defcongroups) | [DEF CON↗](https://defcon.social/@defcon) | [defcon.org↗](https://defcon.org)
+
+Group Registration => [Registration Form↗](https://docs.google.com/forms/d/e/1FAIpQLSeK2t6pqz2KPVerFy9opyEcj4GyJgnCjWM0WjLrY6XbVjM4zg/viewform) | [Reference 7.6.12↗](https://twitter.com/defcon/status/221102821888622595)
+
+___
 
 [⬆ Back to Top](#top)
 
