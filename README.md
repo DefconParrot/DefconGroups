@@ -1,4 +1,4 @@
-## DEF CON Groups (DCG)
+## DEF CON Groups (DCG) Directory🗺️
 
 ___
 
@@ -23,9 +23,31 @@ ___
 
 ## Introduction
 
-What next after attending DEF CON conference? Time to join a local DCG in your area. Not sure if there's a DEF CON group within your area? This curation is for you.
+What next after attending DEF CON conference? Time to join a local DCG in your area. [DEF CON](defcon.org) hacker groups, also known as DEF CON Groups or DC Groups, are local communities of cybersecurity enthusiasts, hackers, and tech experts. Inspired by the DEF CON conference, these groups gather to share knowledge and insights about hacking, cybersecurity, and technology. Participants engage in discussions, workshops, and presentations, fostering learning and collaboration. The emphasis is on ethical hacking and responsible practices, providing a supportive environment for individuals interested in exploring technology's security aspects. These groups extend the spirit of the DEF CON conference throughout the year, promoting education and community in the world of cybersecurity.
 
-[DEF CON](defcon.org) hacker groups, also known as DEF CON Groups or DC Groups, are local communities of cybersecurity enthusiasts, hackers, and tech experts. Inspired by the DEF CON conference, these groups gather to share knowledge and insights about hacking, cybersecurity, and technology. Participants engage in discussions, workshops, and presentations, fostering learning and collaboration. The emphasis is on ethical hacking and responsible practices, providing a supportive environment for individuals interested in exploring technology's security aspects. These groups extend the spirit of the DEF CON conference throughout the year, promoting education and community in the world of cybersecurity.
+```markdown
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣄⣠⣀⡀⣀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⢠⣠⣼⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⢠⣤⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣟⣾⣿⣽⣿⣿⣅⠈⠉⠻⣿⣿⣿⣿⣿⡿⠇⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⢀⡶⠒⢉⡀⢠⣤⣶⣶⣿⣷⣆⣀⡀⠀⢲⣖⠒⠀⠀⠀⠀⠀⠀⠀
+⢀⣤⣾⣶⣦⣤⣤⣶⣿⣿⣿⣿⣿⣿⣽⡿⠻⣷⣀⠀⢻⣿⣿⣿⡿⠟⠀⠀⠀⠀⠀⠀⣤⣶⣶⣤⣀⣀⣬⣷⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣦⣼⣀⠀
+⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠓⣿⣿⠟⠁⠘⣿⡟⠁⠀⠘⠛⠁⠀⠀⢠⣾⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠏⠙⠁
+⠀⠸⠟⠋⠀⠈⠙⣿⣿⣿⣿⣿⣿⣷⣦⡄⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⣼⣆⢘⣿⣯⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡉⠉⢱⡿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡿⠦⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡗⠀⠈⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣉⣿⡿⢿⢷⣾⣾⣿⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⣠⠟⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⠿⠿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣾⣿⣿⣷⣦⣶⣦⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠈⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣤⡖⠛⠶⠤⡀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠙⣿⣿⠿⢻⣿⣿⡿⠋⢩⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠧⣤⣦⣤⣄⡀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠘⣧⠀⠈⣹⡻⠇⢀⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣤⣀⡀⠀⠀⠀⠀⠀⠀⠈⢽⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠹⣷⣴⣿⣷⢲⣦⣤⡀⢀⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣷⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠂⠛⣆⣤⡜⣟⠋⠙⠂⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⠉⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣾⣿⣿⣿⣿⣆⠀⠰⠄⠀⠉⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⠿⠿⣿⣿⣿⠇⠀⠀⢀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢻⡇⠀⠀⢀⣼⠿⠇⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠃⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+```
+
+Should you find yourself uncertain about the existence of a DEF CON group in your vicinity, this compilation is tailored to address your inquiry.
 
 Finding This Interesting? Share it with the community🖨️
 
@@ -140,13 +162,11 @@ ___
 | ID | DCG Name           | Group Location | Website           |  Social Link / Point of Contact (POC)               |              Join Group      |
 |----|--------------------|----------------|-------------------|-----------------------------------------------|------------------------------|
 | 1  | DCG719 </br> [![DCG Logo](https://forum.defcon.org/filedata/fetch?channelid=231446&lastupdate=1585704543&type=medium)](https://forum.defcon.org/filedata/fetch?channelid=231446&lastupdate=1585704543&type=medium)| Colorado Springs, Colorado USA | [www.dc719.org](http://www.dc719.org) | POC: MysfitPrincess </br> - [Email group↗](mailto:mysfitprincess@gmail.com) </br> - [Discord↗]( https://discord.gg/zQQdCaBtbV​) </br> - [Facebook↗](https://www.facebook.com/groups/dc719) |  [Sign in to join](https://forum.defcon.org/node/231446) |
-|2 | DC414 </br> ![DC414](https://forum.defcon.org/filedata/fetch?channelid=231696&lastupdate=1635905907&type=medium) | Franklin, Wisconsin USA | www.dc414.org | POC: Crew </br> - [Email Group↗](mailto:800xl@dc858.org) </br> - [Twitter↗](https://twitter.com/dc414) </br> - [Discord↗](https://discord.gg/DrtEyNbG7u) </br> - [Upcoming meet ups↗](https://www.meetup.com/dc414group/)| [Sign in to join](https://forum.defcon.org/node/231696) | 
-|30 | DC207 </br> ![DC207](https://forum.defcon.org/filedata/fetch?channelid=231667&lastupdate=1586133070&type=medium) | Portland, Maine USA | [dc207.org](http://events.dc207.org) | POC: Virginia Ham </br> - [Email Group↗](mailto:root@dc207.org) </br> - [Twitter↗](https://twitter.com/dcg207) </br> - [Discord↗](https://discord.com/invite/JjpKF6sFW6) | [Sign in to join](https://forum.defcon.org/node/231667) | 
-| 39 | DC539 </br> ![DC539](https://forum.defcon.org/filedata/fetch?channelid=231466&lastupdate=1585708315&type=medium) | Tulsa, Oklahoma USA | www.dc539.org | POC: thinc </br> - [Email Group↗](mailto:defcon539@gmail.com) </br> - [Backup Email](mailto:dc539@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon539) </br> - [Discord↗](https://discord.gg/QpTv7PD)| [Sign in to join](https://forum.defcon.org/node/231466) |
-| 34 | DC864 </br> ![DC864](https://forum.defcon.org/filedata/fetch?channelid=231482&lastupdate=1585791362&type=medium) | Greenville, South Carolina USA | www.dc864.org | POC: Ben Acord & Eric Hart </br> - [Email Group↗](mailto:DefCon864info@gmail.com) </br> - [Twitter↗](http://twitter.com/DEFCON864/) </br> - [Discord↗](https://discord.gg/yc2xVAxwUc) | [Sign in to join](https://forum.defcon.org/node/231482) | 
-| 35 | DC865 </br> ![DC865](https://forum.defcon.org/filedata/fetch?channelid=231485&lastupdate=1585792109&type=medium)  | Knoxville, Tennessee USA | www.dc865.org | POC:Zacht </br> - [Email Group↗](mailto:nvemb3r@dc865.org) </br> - [Backup Email↗](mailto:c_3pjoe@c865.org) </br> - [Twitter↗](https://twitter.com/defcon865) </br>- [Upcoming events↗](https://dc865.eventbrite.com/) | [Sign in to join](https://forum.defcon.org/node/231485) | 
-| 43 | DC404 </br> ![DC404](https://forum.defcon.org/filedata/fetch?channelid=231449&lastupdate=1585706364&type=medium) | Atlanta, Georgia USA | www.dc404.org | POC: dr.kaos </br> - [Email Group↗](mailto:dr.kaos@dc404.org) </br> - [Twitter↗](https://twitter.com/dc404) </br> - [Mastodon↗](https://defcon.social/@dc404) | [Sign in to join](https://forum.defcon.org/node/231449) |
-| 44 | DC209 </br> ![DC209](https://forum.defcon.org/filedata/fetch?channelid=231786&lastupdate=1588400924&type=medium) | Modesto/Turlock, California USA | www.dc209.org | POC: alethedenis </br> - [Email Group↗](mailto:info@dc209.org) </br> - [Twitter↗](https://twitter.com/defcon209) </br> - [Facebook↗](https://www.facebook.com/groups/dc209/) | [Sign in to join](https://forum.defcon.org/node/231786) |
+| 2 | DC539 </br> ![DC539](https://forum.defcon.org/filedata/fetch?channelid=231466&lastupdate=1585708315&type=medium) | Tulsa, Oklahoma USA | www.dc539.org | POC: thinc </br> - [Email Group↗](mailto:defcon539@gmail.com) </br> - [Backup Email](mailto:dc539@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon539) </br> - [Discord↗](https://discord.gg/QpTv7PD)| [Sign in to join](https://forum.defcon.org/node/231466) |
+| 3 | DC864 </br> ![DC864](https://forum.defcon.org/filedata/fetch?channelid=231482&lastupdate=1585791362&type=medium) | Greenville, South Carolina USA | www.dc864.org | POC: Ben Acord & Eric Hart </br> - [Email Group↗](mailto:DefCon864info@gmail.com) </br> - [Twitter↗](http://twitter.com/DEFCON864/) </br> - [Discord↗](https://discord.gg/yc2xVAxwUc) | [Sign in to join](https://forum.defcon.org/node/231482) | 
+| 4 | DC865 </br> ![DC865](https://forum.defcon.org/filedata/fetch?channelid=231485&lastupdate=1585792109&type=medium)  | Knoxville, Tennessee USA | www.dc865.org | POC:Zacht </br> - [Email Group↗](mailto:nvemb3r@dc865.org) </br> - [Backup Email↗](mailto:c_3pjoe@c865.org) </br> - [Twitter↗](https://twitter.com/defcon865) </br>- [Upcoming events↗](https://dc865.eventbrite.com/) | [Sign in to join](https://forum.defcon.org/node/231485) | 
+| 5 | DC404 </br> ![DC404](https://forum.defcon.org/filedata/fetch?channelid=231449&lastupdate=1585706364&type=medium) | Atlanta, Georgia USA | www.dc404.org | POC: dr.kaos </br> - [Email Group↗](mailto:dr.kaos@dc404.org) </br> - [Twitter↗](https://twitter.com/dc404) </br> - [Mastodon↗](https://defcon.social/@dc404) | [Sign in to join](https://forum.defcon.org/node/231449) |
+| 6 | DC209 </br> ![DC209](https://forum.defcon.org/filedata/fetch?channelid=231786&lastupdate=1588400924&type=medium) | Modesto/Turlock, California USA | www.dc209.org | POC: alethedenis </br> - [Email Group↗](mailto:info@dc209.org) </br> - [Twitter↗](https://twitter.com/defcon209) </br> - [Facebook↗](https://www.facebook.com/groups/dc209/) | [Sign in to join](https://forum.defcon.org/node/231786) |
 
 
 <div align="center">
@@ -174,6 +194,8 @@ ___
 | ID | DCG Name           | Group Location | Website        |  Social Link/ Point of Contact | Join Group    |
 |----|--------------------|----------------|----------------|--------------------------------|---------------|
 | 1 | DC86020 </br> ![DCG86020](https://forum.defcon.org/filedata/fetch?channelid=231555&lastupdate=1585868633&type=medium) |Tianhe District, Guangzhou, China | www.dc86020.ngsst.com | POC: akast </br> - [Email Group↗](mailto:akast@ngsst.com) </br> - [Backup Email↗](mailto:sec@hillstonenet.com) | [Sign in to join](https://forum.defcon.org/node/231555) |
+| 2 | DC86021  ![DC86021](https://forum.defcon.org/filedata/fetch?channelid=231143&lastupdate=1584745100&type=medium) | Shanghai, China | N/A | POC: Mr. Wang & Yingying Sun </br> - [Email Group↗](mailto:syy@pwnzen.com) </br> - [Backup Email↗](mailto:syy@pwnzen.com)| [Sign in to join](https://forum.defcon.org/node/231143) |
+| 3 | DC0086  ![DC0086](https://forum.defcon.org/filedata/fetch?channelid=231141&lastupdate=1584744598&type=medium)   |  Beijing, China | N/A | POC: Alisa & Yimi Hu </br> - [Email Group↗](mailto:alisa.zx@xfuturesec.com) </br> - [Backup Email↗](mailto:zzz666686@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231141) |
 
 <div align="center">
 
