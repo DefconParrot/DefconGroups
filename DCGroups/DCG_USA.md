@@ -110,48 +110,23 @@
 | 102 | DC316  | Wichita, Kansas USA | N/A | POC: Mitchell Williams  </br> - [Email Group↗](mailto:mitchell13r@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231665) |
 | 103 | DC443  | Severn, Maryland USA | www.dc443.org | POC: Flay  </br> - [Email Group↗](mailto:flay@unallocatedspace.org) </br> - [Twitter↗](https://twitter.com/dc443_) | [Sign in to join](https://forum.defcon.org/node/231668) |
 | 104 | DC617  | Boston, Massachusetts USA | www.dc617.org | POC: Info  </br> - [Email Group↗](mailto:help@dc617.org) </br> - [Twitter↗](http://twitter.com/defcon617) </br> [Facebook↗](https://www.facebook.com/defcon617/)| [Sign in to join](https://forum.defcon.org/node/231669) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 105 | DC269  | Kalamazoo, Michigan USA | N/A | POC: Stephen Green  </br> - [Email Group↗](mailto:dc269.contact@gmail.com) </br> | [Sign in to join](https://forum.defcon.org/node/231670) |
+| 106 | DC507  | Rochester, Minnestoa USA | N/A | POC: Clark Voss &  Mark Parry </br> - [Email Group↗](mailto:clarkvoss@gmail.com) </br> - [Backup Email↗](mailto:parrym@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231671) |
+| 107 | DC612  | Minneapolis, Minnesota USA | www.dc612.org | POC: On X => TactiFail, NightmareJS & videoman  </br> - [Email Group↗](mailto:info@dc612.org) </br> - [Twitter↗](http://twitter.com/dc612) | [Sign in to join](https://forum.defcon.org/node/231672) |
+| 108 | DC252  | Greenville, North Carolina USA | N/A | POC: Info  </br> - [Email Group↗](mailto:defcongroup252@gmail.com) </br> - [Twitter↗](https://twitter.com/dcg252) | [Sign in to join](https://forum.defcon.org/node/231676) |
+| 109 | DC701  | North Dakota, USA | N/A | POC: Weston Hecker  </br> - [Email Group↗](mailto:westonhecker2017@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231677) |
+| 110 | DC405  | Oklahoma City, Oklahoma USA | www.dc405.org | POC: Info  </br> - [Email Group↗](mailto:Sean Ratliff) </br> - [Twitter↗](https://twitter.com/DC405) | [Sign in to join](https://forum.defcon.org/node/231680) |
+| 111 | DC918  | Tulsa, Oklahoma USA | N/A | POC: Nate  </br> - [Email Group↗](mailto:defcon918@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231681) |
+| 112 | DC412  | Pittsburgh, Pennsylvania USA | www.dc412.org | POC: Jon Zeolla  </br> - [Email Group↗](mailto:SteelCityInfoSec@gmail.com) </br> [Meetup↗](https://www.meetup.com/steel-city-infosec/)| [Sign in to join](https://forum.defcon.org/node/231683) |
+| 113 | DC717  | Lancaster, Pennsylvania USA | www.dc717.org | POC: Gerren Murphy & Paul Miller  </br> - [Email Group↗](mailto:gerren@dc717.org) </br> - [Backup Email↗](mailto:paul@dc717.org) </br> [Meetup↗](meetup.com/Defcon717)| [Sign in to join](https://forum.defcon.org/node/231684) |
+| 114 | DC210  | San Antonio, Texas USA | www.dc210.io | POC: CEDOXX  </br> - [Email Group↗](mailto:joseph.mlodzianowski@gmail.com) </br> [Twitter↗](https://twitter.com/DC210_) | [Sign in to join](https://forum.defcon.org/node/231685) |
+| 115 | DC956  | McAllen, Texas USA | N/A | POC: Francisco Salinas & Luvia Guerrero  </br> - [Email Group↗](mailto:defcongroup956@gmail.com) </br> - [Backup Email↗](mailto:l.guerrero@live.com) </br> [Twitter↗](https://twitter.com/Defcon956) | [Sign in to join](https://forum.defcon.org/node/231688) |
+| 116 | DC835  | Davis County, Utah | www.dc385.org | POC:   </br> - [Email Group↗](mailto:p0c@dc385.org) | [Sign in to join](https://forum.defcon.org/node/231689) |
+| 117 | DC757  | Hampton Roads, Virginia USA | www.dc757.org | POC: Tyler, Troy & Drew | [Sign in to join](https://forum.defcon.org/node/231691) |
+| 118 | DC509.2  | Wenatchee, Washington USA | N/A | POC: Rego & Sunfire </br> - [Email Group↗](mailto:hackerhangouts@wenatchee.tech) </br> - [Backup Email↗](mailto:chill.sunfire@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231694) |
+| 119 | DC863  | Lakeland, Florida | www.centralinfosec.com/defcon863 | POC: James Morris  </br> - [Email Group↗](mailto:defcon863@centralinfosec.com) </br> [Twitter↗](https://twitter.com/defcon863) | [Sign in to join](https://forum.defcon.org/node/232345) |
+| 120 | DC662  | Starkville, Mississippi | N/A | POC: Blake  </br> - [Email Group↗](mailto:contact@gtrhackers.com) | [Sign in to join](https://forum.defcon.org/node/232565) |
+| 121 | DC951  | Menifee, California USA | N/A | POC: Sean Curran  </br> - [Email Group↗](mailto:cyberoutlawed@gmail.com ) | [Sign in to join](https://forum.defcon.org/node/232810) |
+| 122 | DC216  | Cleveland, Ohio, USA | N/A | POC: Gabriel Wolf  </br> - [Email Group↗](mailto:gabeericwolf@gmail.com) | [Sign in to join](https://forum.defcon.org/node/234940) |
+| 123 | DCG561 ![DCG561](https://forum.defcon.org/filedata/fetch?channelid=239813&lastupdate=1633379421&type=medium) | Boca Raton, Florida | N/A | POC: Ringmast4r & Em3rald </br> [POC Twitter↗](https://twitter.com/Ringmast4r) | [Sign in to join](https://forum.defcon.org/node/239813) |
 
