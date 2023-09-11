@@ -129,4 +129,4 @@
 | 121 | DC951  | Menifee, California USA | N/A | POC: Sean Curran  </br> - [Email Group↗](mailto:cyberoutlawed@gmail.com ) | [Sign in to join](https://forum.defcon.org/node/232810) |
 | 122 | DC216  | Cleveland, Ohio, USA | N/A | POC: Gabriel Wolf  </br> - [Email Group↗](mailto:gabeericwolf@gmail.com) | [Sign in to join](https://forum.defcon.org/node/234940) |
 | 123 | DCG561 ![DCG561](https://forum.defcon.org/filedata/fetch?channelid=239813&lastupdate=1633379421&type=medium) | Boca Raton, Florida | N/A | POC: Ringmast4r & Em3rald </br> [POC Twitter↗](https://twitter.com/Ringmast4r) | [Sign in to join](https://forum.defcon.org/node/239813) |
-
+| 124 | DC^2 | Davis County, Utah USA | N/A | [Discord↗](https://discord.gg/GvjDcCew9Q)
