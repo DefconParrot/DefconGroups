@@ -6,6 +6,8 @@ ___
 
 ___
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DefconParrot/DefconGroups#readme)   [![ja](https://img.shields.io/badge/lang-ja-green.svg)](https://github.com/DefconParrot/DefconGroups/README_JA.md)  [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/DefconParrot/DefconGroups/README.es.md)
+
 <a name="top"></a>
 
 ## Table of Contents
