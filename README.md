@@ -167,8 +167,7 @@ ___
 | 2 | DC539 </br> ![DC539](https://forum.defcon.org/filedata/fetch?channelid=231466&lastupdate=1585708315&type=medium) | Tulsa, Oklahoma USA | www.dc539.org | POC: thinc </br> - [Email Group↗](mailto:defcon539@gmail.com) </br> - [Backup Email](mailto:dc539@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon539) </br> - [Discord↗](https://discord.gg/QpTv7PD)| [Sign in to join](https://forum.defcon.org/node/231466) |
 | 3 | DC864 </br> ![DC864](https://forum.defcon.org/filedata/fetch?channelid=231482&lastupdate=1585791362&type=medium) | Greenville, South Carolina USA | www.dc864.org | POC: Ben Acord & Eric Hart </br> - [Email Group↗](mailto:DefCon864info@gmail.com) </br> - [Twitter↗](http://twitter.com/DEFCON864/) </br> - [Discord↗](https://discord.gg/yc2xVAxwUc) | [Sign in to join](https://forum.defcon.org/node/231482) | 
 | 4 | DC865 </br> ![DC865](https://forum.defcon.org/filedata/fetch?channelid=231485&lastupdate=1585792109&type=medium)  | Knoxville, Tennessee USA | www.dc865.org | POC:Zacht </br> - [Email Group↗](mailto:nvemb3r@dc865.org) </br> - [Backup Email↗](mailto:c_3pjoe@c865.org) </br> - [Twitter↗](https://twitter.com/defcon865) </br>- [Upcoming events↗](https://dc865.eventbrite.com/) | [Sign in to join](https://forum.defcon.org/node/231485) | 
-| 5 | DC404 </br> ![DC404](https://forum.defcon.org/filedata/fetch?channelid=231449&lastupdate=1585706364&type=medium) | Atlanta, Georgia USA | www.dc404.org | POC: dr.kaos </br> - [Email Group↗](mailto:dr.kaos@dc404.org) </br> - [Twitter↗](https://twitter.com/dc404) </br> - [Mastodon↗](https://defcon.social/@dc404) | [Sign in to join](https://forum.defcon.org/node/231449) |
-| 6 | DC209 </br> ![DC209](https://forum.defcon.org/filedata/fetch?channelid=231786&lastupdate=1588400924&type=medium) | Modesto/Turlock, California USA | www.dc209.org | POC: alethedenis </br> - [Email Group↗](mailto:info@dc209.org) </br> - [Twitter↗](https://twitter.com/defcon209) </br> - [Facebook↗](https://www.facebook.com/groups/dc209/) | [Sign in to join](https://forum.defcon.org/node/231786) |
+| 5 | DC209 </br> ![DC209](https://forum.defcon.org/filedata/fetch?channelid=231786&lastupdate=1588400924&type=medium) | Modesto/Turlock, California USA | www.dc209.org | POC: alethedenis </br> - [Email Group↗](mailto:info@dc209.org) </br> - [Twitter↗](https://twitter.com/defcon209) </br> - [Facebook↗](https://www.facebook.com/groups/dc209/) | [Sign in to join](https://forum.defcon.org/node/231786) |
 
 
 <div align="center">
@@ -181,9 +180,8 @@ ___
 | ID | DCG Name           | Group Location | Website        |  Social Link/ Point of Contact | Join Group    |
 |----|--------------------|----------------|----------------|--------------------------------|---------------|
 | 1 | DCG441905 </br> ![DC441905](https://forum.defcon.org/filedata/fetch?channelid=235011&lastupdate=1598325684&type=medium) | Worcester, United Kingdom | dc441905.org | POC: dc441905 </br> - [Email Group↗](mailto:info@dc441905.org) </br> - [Twitter↗](https://twitter.com/dc441905) </br> - [YouTube↗](https://www.youtube.com/channel/UCufwYsSoIlyhc8B0JkqC4uA)  | [Sign in to join](https://forum.defcon.org/node/235011) |
-| 2 | DC78412 </br> ![DC78412](https://forum.defcon.org/filedata/fetch?channelid=231522&lastupdate=1585795733&type=medium) | Penza, Russian Federation | [dc501.org](http://defcon58.ru/) | POC: Ivan Kulkov </br> - [Email Group↗](mailto:poc@defcon58.ru) | [Sign in to join](https://forum.defcon.org/node/231522) | 
-| 3 | DC11332 </br> ![DC11332](https://forum.defcon.org/filedata/fetch?channelid=236272&lastupdate=1645653693&type=medium) | Rennes - Ille et Vilaine, France | www.dc11332.org | POC: Yann </br> - [Email Group↗](mailto:yann@dc11332.org) </br> - [Twitter↗](https://twitter.com/dc11332) | [Sign in to join](https://forum.defcon.org/node/236272) |
-| 4 | DC902 </br> ![DC902](https://forum.defcon.org/filedata/fetch?channelid=231548&lastupdate=1585867958&type=medium) | Halifax, Canada | www.dc902.ca | POC: Jeff Hann </br> - [Email Group↗](mailto:jhann@protomail.com) </br> - [Twitter↗](https://twitter.com/DefCon902) </br> - [Discord↗](https://discord.gg/wbPXa9B) | [Sign in to join](https://forum.defcon.org/node/231548) |
+| 2 | DC11332 </br> ![DC11332](https://forum.defcon.org/filedata/fetch?channelid=236272&lastupdate=1645653693&type=medium) | Rennes - Ille et Vilaine, France | www.dc11332.org | POC: Yann </br> - [Email Group↗](mailto:yann@dc11332.org) </br> - [Twitter↗](https://twitter.com/dc11332) | [Sign in to join](https://forum.defcon.org/node/236272) |
+| 3 | DC902 </br> ![DC902](https://forum.defcon.org/filedata/fetch?channelid=231548&lastupdate=1585867958&type=medium) | Halifax, Canada | www.dc902.ca | POC: Jeff Hann </br> - [Email Group↗](mailto:jhann@protomail.com) </br> - [Twitter↗](https://twitter.com/DefCon902) </br> - [Discord↗](https://discord.gg/wbPXa9B) | [Sign in to join](https://forum.defcon.org/node/231548) |
 
 <div align="center">
 
@@ -230,7 +228,7 @@ ___
 
 Curator => [Defcon Parrot↗](https://twitter.com/DefconParrot) 
 
-Official Org Links => [DEF CON Groups↗](https://twitter.com/defcongroups) | [DEF CON↗](https://defcon.social/@defcon) | [defcon.org↗](https://defcon.org)
+Official Org Links => [defcon.org↗](https://defcon.org) | [DEF CON↗](https://defcon.social/@defcon) | [𝕏: DEF CON Groups↗](https://twitter.com/defcongroups) | [🧅: DEF CON Groups↗](https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/social-groups)
 
 Group Registration => [Registration Form↗](https://docs.google.com/forms/d/e/1FAIpQLSeK2t6pqz2KPVerFy9opyEcj4GyJgnCjWM0WjLrY6XbVjM4zg/viewform) | [Reference 7.6.12↗](https://twitter.com/defcon/status/221102821888622595)
 
