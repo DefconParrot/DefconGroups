@@ -28,5 +28,5 @@
 | 20 | DC86028   | Chengdou, China | N/A | POC: King </br> - [Email Group↗](mailto:dc0086028@gmail.com) | [Sign in to join](https://forum.defcon.org/node/235553) |
 | 21 | DC860633   | Rizhao, China | N/A | POC: Bin Yang </br> - [Email Group↗](mailto:src@tzsrc.cn) | [Sign in to join](https://forum.defcon.org/node/235676) |
 | 22 | DCG8620   | Guangdong, China | N/A | POC: Shun  | [Sign in to join](https://forum.defcon.org/node/237199) |
-| 14 | DCG860532 ![DCG860532](https://forum.defcon.org/filedata/fetch?channelid=245084&lastupdate=1682820132&type=medium) | Qingdao, Shandong China | N/A | POC: Yi </br> - [Email Group↗](mailto:dc0532@protonmail.com) </br> - [Twitter↗](https://twitter.com/DC0532) | [Sign in to join](https://forum.defcon.org/node/245084) |
-
+| 23 | DCG860532 ![DCG860532](https://forum.defcon.org/filedata/fetch?channelid=245084&lastupdate=1682820132&type=medium) | Qingdao, Shandong China | N/A | POC: Yi </br> - [Email Group↗](mailto:dc0532@protonmail.com) </br> - [Twitter↗](https://twitter.com/DC0532) | [Sign in to join](https://forum.defcon.org/node/245084) |
+| 24 | DCG86029  | Xi’an, China | www.dc029.cn | POC: Susan & whirlwind  </br> - [Email Group↗](mailto:humensec@gmail.com) </br> - [Backup Email↗](mailto:whirlwind@163.com) | [Sign in to join](https://forum.defcon.org/node/243783) |
