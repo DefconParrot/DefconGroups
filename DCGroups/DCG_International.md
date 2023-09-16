@@ -1,4 +1,8 @@
-## DEF CON Groups International 
+## DEF CON Groups International
+
+> //NB:
+> - Twitter =  𝕏 (name_change)
+> - Email Group = Contacting one of the group representative (PoC) //cc or bcc the second one
 
 | ID | DCG Name           | Group Location | Website        |  Social Link/ Point of Contact | Join Group    |
 |----|--------------------|----------------|----------------|--------------------------------|---------------|
@@ -117,3 +121,35 @@
 | 112 | DC34922 | Canary Islands, Spain | N/A | POC: Info </br> - [Email Group↗](mailto:info@hackron.com)| [Sign in to join](https://forum.defcon.org/node/231612) |
 | 112 | DC34981 | Galicia, Spain | www.dc170.net | POC: Antonio Fernandes </br> - [Email Group↗](mailto:antonio@fernandes.es) </br> - [Twitter↗](https://twitter.com/DC34981) | [Sign in to join](https://forum.defcon.org/node/231613) |
 | 113 | DC9411 | Colombo, Sri Lanka | www.defcon.lk | POC: Dr.Sameera </br> - [Email Group↗](mailto:info@defcon.lk) | [Sign in to join](https://forum.defcon.org/node/231614) |
+| 114 | DC032 | Lviv, Ukraine | www.dc170.net | POC: Info </br> - [Email Group↗](mailto:dc032@protonmail.co) </br> - [Twitter↗](https://twitter.com/DC38032) </br> - [Telegram↗](https://t.me/dc38032) | [Sign in to join](https://forum.defcon.org/node/231616) |
+| 115 | DC057 | Kharkiv, Ukraine | www.defcon.com.ua | POC: Bohdan Rezanov, Pavel Kryvko & Andrey Barashkov </br> - [Email Group↗](mailto:morgan@defcon.com.ua) </br> - [Backup Email↗](mailto:litanyofmadness@defcon.com.ua) </br> - [Backup Email2↗](mailto:andry@defcon.com.ua) </br> - [Twitter↗](https://twitter.com/dc057ua) | [Sign in to join](https://forum.defcon.org/node/231617) |
+| 116 | DC9714 | Dubai, United Arab Emirates | N/A | POC: Ali </br> - [Email Group↗](mailto:aflatoon@hotmail.com)| [Sign in to join](https://forum.defcon.org/node/231618) |
+| 117 | DC44114 | Sheffield, UK | N/A | POC: Scott </br> - [Email Group↗](mailto:dc44114sheffield@gmail.com) </br> - [Backup Email↗](mailto:dc@scottstorey.co.uk) </br> - [Twitter↗](https://twitter.com/dc44114) | [Sign in to join](https://forum.defcon.org/node/231619) |
+| 118 | DC441392 | Exeter, UK | www.dc441392.org.uk | POC: Liam </br> - [Email Group↗](mailto:info@dc441392.org.uk) </br> - [Twitter↗](https://twitter.com/DC441392) </br> - [Discord↗](https://discord.com/invite/UbQvRmR) | [Sign in to join](https://forum.defcon.org/node/231620) |
+| 119 | DC8015 | Venezuela | www.digitalx.net.ve | POC: AlxNovax & Digitalx </br> - [Email Group↗](mailto:alxnovax@hotmail.com) </br> - [Backup Email↗](mailto:d8015@digitalx.net.ve) | [Sign in to join](https://forum.defcon.org/node/231621) |
+| 120 | DC91027 | Gandhinagar, India | N/A | POC: Namu Brahmkshtriya </br> - [Email Group↗](mailto:namu1081@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231958) |
+| 121 | DC86027 | Wuhan, China | N/A | POC: CDra_90n, AmB1tI0N </br> - [Email Group↗](mailto:cdra.o.90n@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231959) |
+| 122 | DC91038 | Gurugram, Haryana India | www.dc91038.com | POC: Hacker Destination </br> - [Email Group↗](mailto:itsmehacker@protonmail.com) | [Sign in to join](https://forum.defcon.org/node/232348) |
+| 123 | DC8802 | Mirpur, Dhaka Bangladesh | N/A | POC: Shanto Ahmed </br> - [Email Group↗](mailto:dc8802.bd@gmail.com) </br> - [Twitter↗](https://twitter.com/defcon8802) | [Sign in to join](https://forum.defcon.org/node/232352) |
+| 124 | DC11333 | Lille, Hauts-de-France France | www.dc11333.org | POC: Hex, Louzogh & Abc </br> - [Twitter↗](https://twitter.com/defcon11333) | [Sign in to join](https://forum.defcon.org/node/232353) |
+| 125 | DC35956 | Burgas, Bulgaria | N/A | N/A | [Sign in to join](https://forum.defcon.org/node/232566) |
+| 126 | DC11966 | Jeddah, Saudi Arabia | N/A | POC: Majd Al-Sharif  </br> - [Email Group↗](mailto:mjalshrf@gmail.com) </br> - [Twitter↗](https://twitter.com/dc11966) | [Sign in to join](https://forum.defcon.org/node/232567) |
+| 127 | DC78182 | Arkhangelsk, Russian Federation | N/A | POC: Evgeniya Nezgovorova aka Jane  </br> - [Email Group↗](mailto:whiteseadefcon@gmail.com) | [Sign in to join](https://forum.defcon.org/node/232794) |
+| 128 | DC91124 | Gurugram, India | www.dc91124.org | POC: thewhiteh4t  </br> - [Email Group↗](mailto:thewhiteh4t@protonmail.com) </br> - [Twitter↗](https://twitter.com/OfficialDc91124) | [Sign in to join](https://forum.defcon.org/node/232796) |
+| 129 | DC5562 | Goiana, Brazil | www.dc5562.org | POC: Thomas Jenkins  </br> - [Email Group↗](mailto:threathunter@outlook.com) </br> - [Twitter↗](https://twitter.com/dc5562) </br> - [Telegram↗](https://t.me/dc5562) | [Sign in to join](https://forum.defcon.org/node/232812) |
+| 130 | DC7423 | Vladivostok, Russian Federation | N/A | POC: Froter Dmitry  </br> - [Email Group↗](mailto:defconvladivostok@gmail.com) </br> - [Twitter↗](https://twitter.com/dc7423) </br> - [Telegram↗](https://t.me/dc7423) | [Sign in to join](https://forum.defcon.org/node/232874) |
+| 131 | DC11503 | San Salvador, El Salvador | N/A | POC: D4rthR3gulus  </br> - [Email Group↗](mailto:ronald.gonzalezrivera@gmail.com) </br> - [POC Twitter↗](https://twitter.com/D4rthR3gulus) </br> - [Twitter↗](https://twitter.com/dc11503) | [Sign in to join](https://forum.defcon.org/node/232875) |
+| 132 | DC94112 | Colombo, Sri Lanka | N/A | POC: Hasitha Assiriyge | [Sign in to join](https://forum.defcon.org/node/233051) |
+| 133 | DC44191 | Newcastle upon Tyne, United KIngdom | N/A | POC: Callum  </br> - [Email Group↗](mailto:dc44191ncl@gmail.com) </br> - [Twitter↗](https://twitter.com/dc44191) | [Sign in to join](https://forum.defcon.org/node/233189) |
+| 134 | DC44161 |  Manchester, UK | N/A | POC: Mike Thompson </br> - [Twitter↗](https://twitter.com/dc44161) | [Sign in to join](https://forum.defcon.org/node/233641) |
+| 135 | DC91172 | Chandigarh, India | www.defcon91172.com | POC: Shivani Kumari  </br> - [Email Group↗](mailto:connectshivani1337@gmail.com) </br> - [Backup Email↗](mailto:connecthaxonic@gmail.com) </br> - [Twitter↗](https://twitter.com/DC91172) | [Sign in to join](https://forum.defcon.org/node/234938) |
+| 136 | DCG9221 | Karachi and Sindh, Pakistan | N/A | N/A | [Sign in to join](https://forum.defcon.org/node/235009) |
+| 137 | DC34966 | Alicante, Spain | N/A | POC: Carlos Rodriguez  </br> - [Email Group↗](mailto:carlos.ceyce@gmail.com) | [Sign in to join](https://forum.defcon.org/node/235174) |
+| 138 | DCG431 | Vienna, Austria | N/A | POC: Teo  </br> - [Email Group↗](mailto:teodorp@pm.me) | [Sign in to join](https://forum.defcon.org/node/235175) |
+| 139 | DC910484 (DEFCON COCHIN) | Ernakulam, India | www.defcon91172.com | POC: Muhsin Muneer, Govind K.G, Vivek Vijayan  </br> - [Twitter↗](https://twitter.com/DefconCochin) | [Sign in to join](https://forum.defcon.org/node/235762) |
+| 140 | DCG441874 | Brecon, Wales | N/A | POC: Steve | [Sign in to join](https://forum.defcon.org/node/235763) |
+| 141 | DCG91124 | Guragon, India | N/A | POC: Sahil Saxena  </br> - [Email Group↗](mailto:prickn9@gmail.com) | [Sign in to join](https://forum.defcon.org/node/235764) |
+| 142 | DCG250 | victoria, CA  | www.defcon250.org | POC: Ram Dulam  </br> - [Email Group↗](mailto:etherpacket@gmail.com) | [Sign in to join](https://forum.defcon.org/node/235957) |
+| 143 | DCG5554 | Caxias do Sul, Brazil | N/A | POC: Israel  </br> - [Email Group↗](mailto:reis_israel@hotmail.com) | [Sign in to join](https://forum.defcon.org/node/236118) |
+| 144 | DCG113722 | Tallinn Estonia | N/A | POC: Stefano Amorelli  </br> - [Email Group↗](mailto:stefano.amorelli@protonmail.com) </br> - [Backup Email↗](mailto:defeesti@protonmail.com) | [Sign in to join](https://forum.defcon.org/node/243781) |
+| 145 | DCG35725 | Limassol, Cyprus | N/A | POC: Kir Ermakov aka Isox  </br> - [Email Group↗](mailto:isox@vulners.com) | [Sign in to join](https://forum.defcon.org/node/244275) |
