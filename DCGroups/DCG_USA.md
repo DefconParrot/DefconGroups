@@ -4,7 +4,7 @@
 > - Twitter =  𝕏 (name_change)
 > - Email Group = Contacting one of the group representative (PoC) //cc or bcc the second one
 
-| ID | DCG Name           | Group Location | Website           |  Social Link / Point of Contact (POC)               |              Join Group      |
+| ID | DCG_Name           | Group_Location | Website           |  Social_Link / Point_of_Contact (POC)               |              Join_Group      |
 |----|--------------------|----------------|-------------------|-----------------------------------------------|------------------------------|
 | 1  | DCG719 </br> [![DCG Logo](https://forum.defcon.org/filedata/fetch?channelid=231446&lastupdate=1585704543&type=medium)](https://forum.defcon.org/filedata/fetch?channelid=231446&lastupdate=1585704543&type=medium)| Colorado Springs, Colorado USA | [www.dc719.org](http://www.dc719.org) | POC: MysfitPrincess </br> - [Email group↗](mailto:mysfitprincess@gmail.com) </br> - [Discord↗]( https://discord.gg/zQQdCaBtbV​) </br> - [Facebook↗](https://www.facebook.com/groups/dc719) |  [Sign in to join](https://forum.defcon.org/node/231446) |
 | 2  | DCG575| Las Cruces, New Mexico | [www.dcg575.org](www.dcg575.org) | - [Email Group↗](mailto:admin@dcg575.org ) | [Sign in to join](https://forum.defcon.org/node/241274)|
@@ -129,5 +129,5 @@
 | 121 | DC951  | Menifee, California USA | N/A | POC: Sean Curran  </br> - [Email Group↗](mailto:cyberoutlawed@gmail.com ) | [Sign in to join](https://forum.defcon.org/node/232810) |
 | 122 | DC216  | Cleveland, Ohio, USA | N/A | POC: Gabriel Wolf  </br> - [Email Group↗](mailto:gabeericwolf@gmail.com) | [Sign in to join](https://forum.defcon.org/node/234940) |
 | 123 | DCG561 ![DCG561](https://forum.defcon.org/filedata/fetch?channelid=239813&lastupdate=1633379421&type=medium) | Boca Raton, Florida | N/A | POC: Ringmast4r & Em3rald </br> [POC Twitter↗](https://twitter.com/Ringmast4r) | [Sign in to join](https://forum.defcon.org/node/239813) |
-| 124 | DC² | Davis County, Central/Northern Utah USA | N/A | POC: z0d14k & existenzkampf </br> - [Discord↗](https://discord.gg/GvjDcCew9Q​) | N/A 
+| 124 | DC² | Davis County, Central/Northern Utah USA | N/A | POC: z0d14k & existenzkampf </br> - [Discord↗](https://discord.gg/GvjDcCew9Q​) | N/A |
 
