@@ -4,7 +4,7 @@
 > - Twitter =  𝕏 (name_change)
 > - Email Group = Contacting one of the group representative (PoC) //cc or bcc the second one
 
-| ID | DCG Name           | Group Location | Website        |  Social Link/ Point of Contact | Join Group    |
+| ID | DCG_Name           | Group_Location | Website        |  Social_Link/ Point_of_Contact | Join_Group    |
 |----|--------------------|----------------|----------------|--------------------------------|---------------|
 | 1 | DC86020 ![DC860020](https://forum.defcon.org/filedata/fetch?channelid=231555&lastupdate=1585868633&type=medium)|Tianhe District, Guangzhou, China | www.dc86020.ngsst.com | POC: akast </br> - [Email Group↗](mailto:akast@ngsst.com) </br> - [Backup Email↗](mailto:sec@hillstonenet.com) | [Sign in to join](https://forum.defcon.org/node/231555) |
 | 2 | DCG860551  | Hefei, Anhui, China | N/A | POC: k3vi, The_xx & gu_cha | [Sign in to join](https://forum.defcon.org/node/238213) |

@@ -4,7 +4,7 @@
 > - Twitter =  𝕏 (name_change)
 > - Email Group = Contacting one of the group representative (PoC) //cc or bcc the second one
 
-| ID | DCG Name           | Group Location | Website        |  Social Link/ Point of Contact | Join Group    |
+| ID | DCG_Name           | Group_Location | Website        |  Social_Link/ Point_of_Contact | Join_Group    |
 |----|--------------------|----------------|----------------|--------------------------------|---------------|
 | 1 | DCG441905 | Worcester, United Kingdom | dc441905.org | POC: dc441905 </br> - [Email Group↗](mailto:info@dc441905.org) </br> - [Twitter↗](https://twitter.com/dc441905) </br> - [YouTube↗](https://www.youtube.com/channel/UCufwYsSoIlyhc8B0JkqC4uA)  | [Sign in to join](https://forum.defcon.org/node/235011) |
 | 2 | DC78412  | Penza, Russian Federation | [dc501.org](http://defcon58.ru/) | POC: Ivan Kulkov </br> - [Email Group↗](mailto:poc@defcon58.ru) | [Sign in to join](https://forum.defcon.org/node/231522) |
@@ -94,8 +94,7 @@
 | 86 | DCG91612 | Patna, India | N/A | POC: Navneet Raj </br> - [Email Group↗](mailto:atnavneetmuffin@pm.me) | [Sign in to join](https://forum.defcon.org/node/231573) |
 | 87 | DCG91731  | Indore, India | N/A | POC: Yatin Sharma </br> - [Email Group↗](mailto:yatinji143@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231574) |
 | 88 | DC6221  |  Jakarta Selatan, Indonesia | N/A | POC: Muhammad Claudio </br> - [Email Group↗](mailto:cyberking@outlook.co.id) | [Sign in to join](https://forum.defcon.org/node/231575) |
-| 89 | DC62231 | Cirebon, Indonesia | N/A | POC: Edy Susanto, Sidik Santoso </br> - [Email Group↗](mailto:edy.susanto74@live.com) </br> - [Backup Email↗](mailto:sidiks43@yahoo.com
- ) | [Sign in to join](https://forum.defcon.org/node/231576) |
+| 89 | DC62231 | Cirebon, Indonesia | N/A | POC: Edy Susanto, Sidik Santoso </br> - [Email Group↗](mailto:edy.susanto74@live.com) </br> - [Backup Email↗](mailto:sidiks43@yahoo.com) | [Sign in to join](https://forum.defcon.org/node/231576) |
 | 90 | DC9723  |  Tel-Aviv, Israel | www.dc9723.org | POC: Ezra Caltum </br> - [Email Group↗](mailto:Ez@dc9723.org) </br> - [YouTube↗](http://youtube.com/c/DC9723) | [Sign in to join](https://forum.defcon.org/node/231587) |
 | 91 | DC999  | Trenzano, Italy | N/A | POC: Dr. Chow </br> - [Email Group↗](mailto:dr.chow@cuscusa.com) </br> - [Twitter↗](https://twitter.com/DefconGroup999) | [Sign in to join](https://forum.defcon.org/node/231588) |
 | 92 | DC7212  | Astana, Kazakhstan | N/A | POC: b4zed, d4k3 </br> - [Email Group↗](mailto:defcon7172@protonmail.com) </br> - [Backup Email↗](mailto:dankas87@gmail.com) | [Sign in to join](https://forum.defcon.org/node/231589) |

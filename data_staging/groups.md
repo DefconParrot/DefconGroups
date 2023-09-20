@@ -294,3 +294,4 @@
 | 22 | DCG8620   | Guangdong, China | N/A | POC: Shun  | [Sign in to join](https://forum.defcon.org/node/237199) |
 | 23 | DCG860532 | Qingdao, Shandong China | N/A | POC: Yi </br> - [Email Group↗](mailto:dc0532@protonmail.com) </br> - [Twitter↗](https://twitter.com/DC0532) | [Sign in to join](https://forum.defcon.org/node/245084) |
 | 24 | DCG86029  | Xi’an, China | www.dc029.cn | POC: Susan & whirlwind  </br> - [Email Group↗](mailto:humensec@gmail.com) </br> - [Backup Email↗](mailto:whirlwind@163.com) | [Sign in to join](https://forum.defcon.org/node/243783) |
+| 124 | DC² | Davis County, Central/Northern Utah USA | N/A | POC: z0d14k & existenzkampf </br> - [Discord↗](https://discord.gg/GvjDcCew9Q​) | N/A |
